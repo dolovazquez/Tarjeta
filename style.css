@@ -30,7 +30,8 @@ button{
 h1{
     font-weight: 800;
     color: black;
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 body{ 
