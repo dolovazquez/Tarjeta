@@ -30,8 +30,7 @@ button{
 h1{
     font-weight: 800;
     color: black;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin: 20px;
 }
 body{ 
     font-family: "Plus Jakarta Sans";
