@@ -11,7 +11,7 @@ section{
     align-items: flex-end;
 }
 .izq{
-    background-color:lightsalmon;
+    background-color: whitesmoke;
     width: 500px;
     margin: 40px 0 20px;
     padding: 20px;
@@ -20,7 +20,7 @@ section{
     margin: 0 20px 20px;
 }
 button{
-    background-color: rgb(218, 193, 32);
+    background-color:rgba(176, 61, 49)
     color: white;
     padding: 5px 30px;
     border-radius: 5px;
