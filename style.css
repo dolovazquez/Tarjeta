@@ -33,9 +33,11 @@ h1{
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
 body{ 
     font-family: "Plus Jakarta Sans";
     font-weight: 200;
     font-style: normal;
+ }   
+p{
+    font-family: "Plus Jakarta Sans"
 }
